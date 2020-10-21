@@ -4309,3 +4309,11 @@ h3.heading-agileinfo.white-w3ls {
 .agile_team_grids {
     margin-bottom: 6%;
 }
+
+.formation {
+    margin-bottom: 2% !important;
+}
+
+.formation img, .formation .mask {
+    border-radius:10em;
+}
